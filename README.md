@@ -9,7 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-02-11T22:55:51.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
+| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-02-23T20:38:56.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
+| Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
 | Monokai​Free | Monokai color scheme. | [2024-01-19T06:41:38.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | zenburn | Zenburn color scheme. | [2024-01-11T20:53:17.000Z](https://packagecontrol.io/packages/zenburn) |
@@ -53,7 +54,6 @@ The table below lists color schemes in descending order based on their last modi
 | Main​Things Color Scheme | Color Scheme for Sublime Text 3. Concept is: Focus on important words. D language only. | [2022-07-25T03:25:22.000Z](https://packagecontrol.io/packages/MainThings%20Color%20Scheme) |
 | Ciapre Color Scheme | Ciapre - an easy-on-the-eyes Sublime Text/TextMate color scheme. | [2022-07-12T13:04:47.000Z](https://packagecontrol.io/packages/Ciapre%20Color%20Scheme) |
 | Monokai++ | A modern Monokai theme for Sublime Text 3 and Visual Studio Code | [2022-06-29T08:35:11.000Z](https://packagecontrol.io/packages/Monokai%2B%2B) |
-| Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2022-06-23T06:25:26.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Space​Duck Color Scheme | 🚀 🦆 SpaceDuck Color Scheme for Sublime Text | [2022-05-08T11:18:20.000Z](https://packagecontrol.io/packages/SpaceDuck%20Color%20Scheme) |
 | Minteresting | A dark theme for Sublime Text 2/3 | [2022-05-07T22:13:53.000Z](https://packagecontrol.io/packages/Minteresting) |
 | Mooon Light Theme | 🎨 Modern Theme for Sublime Text 3 | [2022-05-02T03:02:42.000Z](https://packagecontrol.io/packages/Mooon%20Light%20Theme) |
