@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-02-23T20:38:56.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
+| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-03-01T23:36:35.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
 | Monokai​Free | Monokai color scheme. | [2024-01-19T06:41:38.000Z](https://packagecontrol.io/packages/MonokaiFree) |
