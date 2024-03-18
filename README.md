@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Theme - Rose Pine | Soho vibes for Sublime Text | [2024-03-15T19:10:43.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-03-05T12:28:58.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
