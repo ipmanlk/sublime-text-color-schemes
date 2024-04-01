@@ -9,8 +9,11 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
+| MKB | Macro/Keybind Mod Syntax Highlighting for Sublime Text 3/4 (For Minecraft 1.6.2-1.12.2) | [2024-03-30T02:17:51.000Z](https://packagecontrol.io/packages/MKB) |
 | Auto​Dark​Linux | Fix auto dark mode for sublime on Linux | [2024-03-28T00:29:20.000Z](https://packagecontrol.io/packages/AutoDarkLinux) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-03-22T19:58:14.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
+| Comments-only Color Scheme | Color scheme without syntax highlighting for Sublime Text | [2024-03-20T20:17:24.000Z](https://packagecontrol.io/packages/Comments-only%20Color%20Scheme) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-03-05T12:28:58.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
@@ -23,14 +26,12 @@ The table below lists color schemes in descending order based on their last modi
 | Material Theme | Material Theme, a theme for Sublime Text 3, made by Mattia Astorino | [2023-12-02T11:36:35.000Z](https://packagecontrol.io/packages/Material%20Theme) |
 | Flexoki Color Scheme | An inky color scheme for Sublime Text. | [2023-10-12T02:48:18.000Z](https://packagecontrol.io/packages/Flexoki%20Color%20Scheme) |
 | Solarized Color Scheme | Solarized color scheme for Sublime Text | [2023-10-07T11:22:39.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
-| MKB | Macro/Keybind Mod Syntax Highlighting for Sublime Text 3/4 (For Minecraft 1.6.2-1.12.2) | [2023-10-02T18:23:46.000Z](https://packagecontrol.io/packages/MKB) |
 | Whitelines | A colour scheme for Sublime Text which is styled after Whitelines notepads | [2023-09-26T22:15:55.000Z](https://packagecontrol.io/packages/Whitelines) |
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2023-09-26T22:06:10.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Invader Zim Color Scheme | 🛸 Dark Color Theme for Sublime Text 4 | [2023-09-25T12:45:29.000Z](https://packagecontrol.io/packages/Invader%20Zim%20Color%20Scheme) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2023-08-30T13:54:08.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | Catppuccin color schemes | 🍋 Soothing pastel color schemes for Sublime Text | [2023-08-20T15:04:35.000Z](https://packagecontrol.io/packages/Catppuccin%20color%20schemes) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2023-07-27T15:19:15.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
-| Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2023-07-22T17:35:00.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | Berry Color Scheme | The Berry colour scheme for Sublime Text is heavily inspired by PHPStorm Photon Theme which is inspired by Mozilla's theme | [2023-07-12T12:12:31.000Z](https://packagecontrol.io/packages/Berry%20Color%20Scheme) |
 | Json Colors And Navigation | Add symbol navigation and colorful syntax to JSON files. All Sublime Text built-in color schemes are supported. | [2023-07-04T18:32:25.000Z](https://packagecontrol.io/packages/Json%20Colors%20And%20Navigation) |
 | EJS 2 | EJS syntax definition for Sublime Text 3 & 4 | [2023-06-17T19:00:56.000Z](https://packagecontrol.io/packages/EJS%202) |
