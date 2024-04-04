@@ -9,12 +9,12 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-04-02T01:12:03.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | MKB | Macro/Keybind Mod Syntax Highlighting for Sublime Text 3/4 (For Minecraft 1.6.2-1.12.2) | [2024-03-30T02:17:51.000Z](https://packagecontrol.io/packages/MKB) |
 | Auto​Dark​Linux | Fix auto dark mode for sublime on Linux | [2024-03-28T00:29:20.000Z](https://packagecontrol.io/packages/AutoDarkLinux) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-03-22T19:58:14.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Comments-only Color Scheme | Color scheme without syntax highlighting for Sublime Text | [2024-03-20T20:17:24.000Z](https://packagecontrol.io/packages/Comments-only%20Color%20Scheme) |
-| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-03-05T12:28:58.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
 | Monokai​Free | Monokai color scheme. | [2024-01-19T06:41:38.000Z](https://packagecontrol.io/packages/MonokaiFree) |
