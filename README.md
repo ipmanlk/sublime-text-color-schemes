@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| LSP-leo | Leo syntax and language server | [2024-04-19T16:39:50.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| LSP-leo | Leo syntax and language server | [2024-04-23T12:45:01.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-04-02T01:12:03.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | MKB | Macro/Keybind Mod Syntax Highlighting for Sublime Text 3/4 (For Minecraft 1.6.2-1.12.2) | [2024-03-30T02:17:51.000Z](https://packagecontrol.io/packages/MKB) |
