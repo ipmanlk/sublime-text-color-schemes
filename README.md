@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-04-26T17:07:35.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | LSP-leo | Leo syntax and language server | [2024-04-23T12:45:01.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-04-02T01:12:03.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
@@ -20,7 +21,6 @@ The table below lists color schemes in descending order based on their last modi
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
 | Monokai​Free | Monokai color scheme. | [2024-01-19T06:41:38.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | zenburn | Zenburn color scheme. | [2024-01-11T20:53:17.000Z](https://packagecontrol.io/packages/zenburn) |
-| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2023-12-29T11:35:33.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Color​Scheme​Unit | Color scheme unit testing. | [2023-12-07T19:08:18.000Z](https://packagecontrol.io/packages/ColorSchemeUnit) |
 | Clannad Theme | A dark-based elegant theme for Sublime Text | [2023-12-06T19:31:04.000Z](https://packagecontrol.io/packages/Clannad%20Theme) |
 | Material Theme | Material Theme, a theme for Sublime Text 3, made by Mattia Astorino | [2023-12-02T11:36:35.000Z](https://packagecontrol.io/packages/Material%20Theme) |
