@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Monokai​Free | Monokai color scheme. | [2024-05-05T05:37:16.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | LSP-leo | Leo syntax and language server | [2024-04-30T12:55:44.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-04-26T17:07:35.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-04-02T01:12:03.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
@@ -19,7 +20,6 @@ The table below lists color schemes in descending order based on their last modi
 | Comments-only Color Scheme | Color scheme without syntax highlighting for Sublime Text | [2024-03-20T20:17:24.000Z](https://packagecontrol.io/packages/Comments-only%20Color%20Scheme) |
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
-| Monokai​Free | Monokai color scheme. | [2024-01-19T06:41:38.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | zenburn | Zenburn color scheme. | [2024-01-11T20:53:17.000Z](https://packagecontrol.io/packages/zenburn) |
 | Color​Scheme​Unit | Color scheme unit testing. | [2023-12-07T19:08:18.000Z](https://packagecontrol.io/packages/ColorSchemeUnit) |
 | Clannad Theme | A dark-based elegant theme for Sublime Text | [2023-12-06T19:31:04.000Z](https://packagecontrol.io/packages/Clannad%20Theme) |
