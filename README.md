@@ -9,8 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| LSP-leo | Leo syntax and language server | [2024-05-13T15:21:04.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Monokai​Free | Monokai color scheme. | [2024-05-08T16:12:14.000Z](https://packagecontrol.io/packages/MonokaiFree) |
-| LSP-leo | Leo syntax and language server | [2024-05-07T14:28:43.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-04-26T17:07:35.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-04-02T01:12:03.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
