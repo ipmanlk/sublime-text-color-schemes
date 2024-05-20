@@ -11,6 +11,7 @@ The table below lists color schemes in descending order based on their last modi
 | ------------ | ----------- | ----------------- |
 | LSP-leo | Leo syntax and language server | [2024-05-13T15:21:04.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Monokai​Free | Monokai color scheme. | [2024-05-08T16:12:14.000Z](https://packagecontrol.io/packages/MonokaiFree) |
+| Wakame Color Scheme | Wakame Color Scheme for Sublime Text 3/4. | [2024-05-03T13:59:29.000Z](https://packagecontrol.io/packages/Wakame%20Color%20Scheme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-04-26T17:07:35.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-04-02T01:12:03.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
@@ -65,6 +66,7 @@ The table below lists color schemes in descending order based on their last modi
 | Moonlight | Sublime Theme with bubblegum colors on a moonlit background | [2022-03-03T15:17:07.000Z](https://packagecontrol.io/packages/Moonlight) |
 | Agila Theme | A Sublime Text 3 UI Theme | [2022-03-03T02:16:05.000Z](https://packagecontrol.io/packages/Agila%20Theme) |
 | Neon Color Scheme | A colorful bright-on-black color scheme for Sublime Text. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSON, C/C++, diff, HTML/XML, Markdown, PHP, CSS/SCSS/SASS, GitGutter, Find In Files, PackageDev, Regex, SublimeLinter, and much more. | [2022-02-13T20:27:09.000Z](https://packagecontrol.io/packages/Neon%20Color%20Scheme) |
+| Candy Dark Color Scheme | Candy Dark is a Sublime Color Scheme for all who loves color while coding. This Color Scheme is specially designed for JavaScript. | [2022-01-22T14:25:55.000Z](https://packagecontrol.io/packages/Candy%20Dark%20Color%20Scheme) |
 | Lumi | Minimalistic Sublime Text colour scheme with constant luminance | [2022-01-13T21:09:13.000Z](https://packagecontrol.io/packages/Lumi) |
 | Blast Dark | Sublime port of the original Blast Dark theme for VS Code. | [2022-01-12T18:06:02.000Z](https://packagecontrol.io/packages/Blast%20Dark) |
 | Freedom Colour Scheme | A collection of four minimal colour schemes for Sublime Text. | [2022-01-03T16:16:21.000Z](https://packagecontrol.io/packages/Freedom%20Colour%20Scheme) |
