@@ -9,6 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
+| Catppuccin color schemes | 🍋 Soothing pastel color schemes for Sublime Text | [2024-05-27T13:09:09.000Z](https://packagecontrol.io/packages/Catppuccin%20color%20schemes) |
 | Monokai​Free | Monokai color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | LSP-leo | Leo syntax and language server | [2024-05-13T15:21:04.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Wakame Color Scheme | Wakame Color Scheme for Sublime Text 3/4. | [2024-05-03T13:59:29.000Z](https://packagecontrol.io/packages/Wakame%20Color%20Scheme) |
@@ -31,7 +33,6 @@ The table below lists color schemes in descending order based on their last modi
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2023-09-26T22:06:10.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Invader Zim Color Scheme | 🛸 Dark Color Theme for Sublime Text 4 | [2023-09-25T12:45:29.000Z](https://packagecontrol.io/packages/Invader%20Zim%20Color%20Scheme) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2023-08-30T13:54:08.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
-| Catppuccin color schemes | 🍋 Soothing pastel color schemes for Sublime Text | [2023-08-20T15:04:35.000Z](https://packagecontrol.io/packages/Catppuccin%20color%20schemes) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2023-07-27T15:19:15.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | Berry Color Scheme | The Berry colour scheme for Sublime Text is heavily inspired by PHPStorm Photon Theme which is inspired by Mozilla's theme | [2023-07-12T12:12:31.000Z](https://packagecontrol.io/packages/Berry%20Color%20Scheme) |
 | Json Colors And Navigation | Add symbol navigation and colorful syntax to JSON files. All Sublime Text built-in color schemes are supported. | [2023-07-04T18:32:25.000Z](https://packagecontrol.io/packages/Json%20Colors%20And%20Navigation) |
@@ -351,7 +352,6 @@ The table below lists color schemes in descending order based on their last modi
 | Blue Zen Color Scheme | No description provided | [2014-10-19T21:04:17.000Z](https://packagecontrol.io/packages/Blue%20Zen%20Color%20Scheme) |
 | Raybo - Color Scheme | Theme for Sublime Text with an emphasis on Markdown | [2014-10-16T14:53:14.000Z](https://packagecontrol.io/packages/Raybo%20-%20Color%20Scheme) |
 | Theme - Haft Lang | Dark, flat, and minimal theme with pretty color schemes for Sublime Text. | [2014-10-09T00:35:05.000Z](https://packagecontrol.io/packages/Theme%20-%20Haft%20Lang) |
-| Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2014-09-22T15:27:10.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
 | Predawn Monokai | A fork of flatland monokai for the predawn UI | [2014-09-01T07:26:35.000Z](https://packagecontrol.io/packages/Predawn%20Monokai) |
 | Ice​World Color Scheme | An ice-color-style color schema for Sublime Text 2. | [2014-08-29T02:41:55.000Z](https://packagecontrol.io/packages/IceWorld%20Color%20Scheme) |
 | Predawn Twilight Theme | A modified twilight Sublime Text 3 Theme/Color Scheme for Predawn | [2014-08-29T01:23:57.000Z](https://packagecontrol.io/packages/Predawn%20Twilight%20Theme) |
