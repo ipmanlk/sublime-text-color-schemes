@@ -12,6 +12,7 @@ The table below lists color schemes in descending order based on their last modi
 | Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
 | Catppuccin color schemes | 🍋 Soothing pastel color schemes for Sublime Text | [2024-05-27T13:09:09.000Z](https://packagecontrol.io/packages/Catppuccin%20color%20schemes) |
 | Monokai​Free | Monokai color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
+| Materialize | 🎨 Elegant themes for Sublime Text 3 | [2024-05-14T07:56:53.000Z](https://packagecontrol.io/packages/Materialize) |
 | LSP-leo | Leo syntax and language server | [2024-05-13T15:21:04.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Wakame Color Scheme | Wakame Color Scheme for Sublime Text 3/4. | [2024-05-03T13:59:29.000Z](https://packagecontrol.io/packages/Wakame%20Color%20Scheme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-04-26T17:07:35.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
@@ -181,7 +182,6 @@ The table below lists color schemes in descending order based on their last modi
 | Niji | Sublime Text and Visual Studio Code Color Scheme | [2018-03-03T08:44:57.000Z](https://packagecontrol.io/packages/Niji) |
 | 10% Too Dull for My Tastes Color Scheme | For fun Color Scheme by Scotch.io for your Sublime Text 3 Editor | [2018-03-01T06:23:32.000Z](https://packagecontrol.io/packages/10%25%20Too%20Dull%20for%20My%20Tastes%20Color%20Scheme) |
 | Writing Color Scheme | Theme for writing articles in Sublime Text using Latex or Markdown | [2018-02-21T22:42:23.000Z](https://packagecontrol.io/packages/Writing%20Color%20Scheme) |
-| Materialize | 🎨 Elegant themes for Sublime Text 3 | [2018-02-05T22:05:06.000Z](https://packagecontrol.io/packages/Materialize) |
 | Ublime Color Schemes | Colorful and Black & White color schemes for Sublime Text, and themes for Visual Studio Code, Textmate and Atom | [2018-01-22T03:43:41.000Z](https://packagecontrol.io/packages/Ublime%20Color%20Schemes) |
 | molokai | Molokai color scheme. | [2017-12-12T18:56:09.000Z](https://packagecontrol.io/packages/molokai) |
 | Se​7en Color Schemes | Color Schemes for Sublime-Text 2/3 | [2017-12-05T17:07:48.000Z](https://packagecontrol.io/packages/Se7en%20Color%20Schemes) |
