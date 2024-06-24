@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| Dark Castle Color Scheme | 🏰 🌲 A vibrantly elegant dark color scheme available for Sublime. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. | [2024-06-19T12:10:29.000Z](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme) |
+| Dark Castle Color Scheme | 🏰 🌲 A vibrantly elegant dark color scheme available for Sublime. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. | [2024-06-21T00:54:34.000Z](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme) |
 | Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
 | Catppuccin color schemes | 🍋 Soothing pastel color schemes for Sublime Text | [2024-05-27T13:09:09.000Z](https://packagecontrol.io/packages/Catppuccin%20color%20schemes) |
 | Monokai​Free | Monokai color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
