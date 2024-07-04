@@ -9,13 +9,15 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2024-07-03T22:03:36.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
+| LSP-leo | Leo syntax and language server | [2024-07-02T20:24:35.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-06-30T14:43:04.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
+| Blossom Theme | Blossom Theme for Sublime Text | [2024-06-26T13:22:01.000Z](https://packagecontrol.io/packages/Blossom%20Theme) |
 | Dark Castle Color Scheme | 🏰 🌲 A vibrantly elegant dark color scheme available for Sublime. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. | [2024-06-21T00:54:34.000Z](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme) |
 | Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
 | Catppuccin color schemes | 🍋 Soothing pastel color schemes for Sublime Text | [2024-05-27T13:09:09.000Z](https://packagecontrol.io/packages/Catppuccin%20color%20schemes) |
 | Monokai​Free | Monokai color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | Materialize | 🎨 Elegant themes for Sublime Text 3 | [2024-05-14T07:56:53.000Z](https://packagecontrol.io/packages/Materialize) |
-| LSP-leo | Leo syntax and language server | [2024-05-13T15:21:04.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Wakame Color Scheme | Wakame Color Scheme for Sublime Text 3/4. | [2024-05-03T13:59:29.000Z](https://packagecontrol.io/packages/Wakame%20Color%20Scheme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-04-26T17:07:35.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
@@ -35,7 +37,6 @@ The table below lists color schemes in descending order based on their last modi
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2023-09-26T22:06:10.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Invader Zim Color Scheme | 🛸 Dark Color Theme for Sublime Text 4 | [2023-09-25T12:45:29.000Z](https://packagecontrol.io/packages/Invader%20Zim%20Color%20Scheme) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2023-08-30T13:54:08.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
-| Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2023-07-27T15:19:15.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | Berry Color Scheme | The Berry colour scheme for Sublime Text is heavily inspired by PHPStorm Photon Theme which is inspired by Mozilla's theme | [2023-07-12T12:12:31.000Z](https://packagecontrol.io/packages/Berry%20Color%20Scheme) |
 | Json Colors And Navigation | Add symbol navigation and colorful syntax to JSON files. All Sublime Text built-in color schemes are supported. | [2023-07-04T18:32:25.000Z](https://packagecontrol.io/packages/Json%20Colors%20And%20Navigation) |
 | EJS 2 | EJS syntax definition for Sublime Text 3 & 4 | [2023-06-17T19:00:56.000Z](https://packagecontrol.io/packages/EJS%202) |
