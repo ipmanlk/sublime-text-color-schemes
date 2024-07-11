@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Theme - Rose Pine | Soho vibes for Sublime Text | [2024-07-10T20:10:23.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2024-07-03T22:03:36.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2024-07-02T20:24:35.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-06-30T14:43:04.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
@@ -23,7 +24,6 @@ The table below lists color schemes in descending order based on their last modi
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | MKB | Macro/Keybind Mod Syntax Highlighting for Sublime Text 3/4 (For Minecraft 1.6.2-1.12.2) | [2024-03-30T02:17:51.000Z](https://packagecontrol.io/packages/MKB) |
 | Auto​Dark​Linux | Fix auto dark mode for sublime on Linux :sunglasses: | [2024-03-28T00:29:20.000Z](https://packagecontrol.io/packages/AutoDarkLinux) |
-| Theme - Rose Pine | Soho vibes for Sublime Text | [2024-03-22T19:58:14.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Comments-only Color Scheme | Color scheme without syntax highlighting for Sublime Text | [2024-03-20T20:17:24.000Z](https://packagecontrol.io/packages/Comments-only%20Color%20Scheme) |
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
