@@ -9,6 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-07-26T17:19:17.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
+| Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-07-26T15:33:03.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-07-10T20:10:23.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2024-07-03T22:03:36.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2024-07-02T20:24:35.000Z](https://packagecontrol.io/packages/LSP-leo) |
@@ -20,7 +22,6 @@ The table below lists color schemes in descending order based on their last modi
 | Monokai​Free | Monokai color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | Materialize | 🎨 Elegant themes for Sublime Text 3 | [2024-05-14T07:56:53.000Z](https://packagecontrol.io/packages/Materialize) |
 | Wakame Color Scheme | Wakame Color Scheme for Sublime Text 3/4. | [2024-05-03T13:59:29.000Z](https://packagecontrol.io/packages/Wakame%20Color%20Scheme) |
-| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-04-26T17:07:35.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | MKB | Macro/Keybind Mod Syntax Highlighting for Sublime Text 3/4 (For Minecraft 1.6.2-1.12.2) | [2024-03-30T02:17:51.000Z](https://packagecontrol.io/packages/MKB) |
 | Auto​Dark​Linux | Fix auto dark mode for sublime on Linux :sunglasses: | [2024-03-28T00:29:20.000Z](https://packagecontrol.io/packages/AutoDarkLinux) |
@@ -32,7 +33,6 @@ The table below lists color schemes in descending order based on their last modi
 | Clannad Theme | A dark-based elegant theme for Sublime Text | [2023-12-06T19:31:04.000Z](https://packagecontrol.io/packages/Clannad%20Theme) |
 | Material Theme | Material Theme, a theme for Sublime Text 3, made by Mattia Astorino | [2023-12-02T11:36:35.000Z](https://packagecontrol.io/packages/Material%20Theme) |
 | Flexoki Color Scheme | An inky color scheme for Sublime Text. | [2023-10-12T02:48:18.000Z](https://packagecontrol.io/packages/Flexoki%20Color%20Scheme) |
-| Solarized Color Scheme | Solarized color scheme for Sublime Text | [2023-10-07T11:22:39.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Whitelines | A colour scheme for Sublime Text which is styled after Whitelines notepads | [2023-09-26T22:15:55.000Z](https://packagecontrol.io/packages/Whitelines) |
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2023-09-26T22:06:10.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Invader Zim Color Scheme | 🛸 Dark Color Theme for Sublime Text 4 | [2023-09-25T12:45:29.000Z](https://packagecontrol.io/packages/Invader%20Zim%20Color%20Scheme) |
