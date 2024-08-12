@@ -9,17 +9,17 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-08-11T15:42:34.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
+| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-08-10T17:11:47.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-07-26T17:19:17.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
-| Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-07-26T15:33:03.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-07-10T20:10:23.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2024-07-03T22:03:36.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2024-07-02T20:24:35.000Z](https://packagecontrol.io/packages/LSP-leo) |
-| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-06-30T14:43:04.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Blossom Theme | Blossom Theme for Sublime Text | [2024-06-26T13:22:01.000Z](https://packagecontrol.io/packages/Blossom%20Theme) |
 | Dark Castle Color Scheme | 🏰 🌲 A vibrantly elegant dark color scheme available for Sublime. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. | [2024-06-21T00:54:34.000Z](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme) |
 | Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
 | Catppuccin color schemes | 🍋 Soothing pastel color schemes for Sublime Text | [2024-05-27T13:09:09.000Z](https://packagecontrol.io/packages/Catppuccin%20color%20schemes) |
-| Monokai​Free | Monokai color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
+| Monokai​Free | Monokai Sublime Text color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | Materialize | 🎨 Elegant themes for Sublime Text 3 | [2024-05-14T07:56:53.000Z](https://packagecontrol.io/packages/Materialize) |
 | Wakame Color Scheme | Wakame Color Scheme for Sublime Text 3/4. | [2024-05-03T13:59:29.000Z](https://packagecontrol.io/packages/Wakame%20Color%20Scheme) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
@@ -29,7 +29,7 @@ The table below lists color schemes in descending order based on their last modi
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
 | zenburn | Zenburn color scheme. | [2024-01-11T20:53:17.000Z](https://packagecontrol.io/packages/zenburn) |
-| Color​Scheme​Unit | Color scheme unit testing. | [2023-12-07T19:08:18.000Z](https://packagecontrol.io/packages/ColorSchemeUnit) |
+| Color​Scheme​Unit | Color scheme Sublime Text Unit Testing. | [2023-12-07T19:08:18.000Z](https://packagecontrol.io/packages/ColorSchemeUnit) |
 | Clannad Theme | A dark-based elegant theme for Sublime Text | [2023-12-06T19:31:04.000Z](https://packagecontrol.io/packages/Clannad%20Theme) |
 | Material Theme | Material Theme, a theme for Sublime Text 3, made by Mattia Astorino | [2023-12-02T11:36:35.000Z](https://packagecontrol.io/packages/Material%20Theme) |
 | Flexoki Color Scheme | An inky color scheme for Sublime Text. | [2023-10-12T02:48:18.000Z](https://packagecontrol.io/packages/Flexoki%20Color%20Scheme) |
@@ -88,8 +88,8 @@ The table below lists color schemes in descending order based on their last modi
 | Tron Color Scheme | :bike: A standalone fork of the tron color scheme for sublime text, including Tron Legacy | [2021-08-05T22:54:11.000Z](https://packagecontrol.io/packages/Tron%20Color%20Scheme) |
 | Coffee Color Scheme | Coffee smell | [2021-07-16T04:07:18.000Z](https://packagecontrol.io/packages/Coffee%20Color%20Scheme) |
 | Red​Eye | A Sublime Text 3 color scheme inspired by flight instruments and jetliner cockpits. | [2021-07-03T19:27:47.000Z](https://packagecontrol.io/packages/RedEye) |
-| Alpen Color Scheme | Alpen is a light color scheme for Sublime Text. | [2021-06-20T01:13:04.000Z](https://packagecontrol.io/packages/Alpen%20Color%20Scheme) |
-| Lotus Color Scheme | Lotus is a dark color scheme for Sublime Text. | [2021-06-20T01:11:07.000Z](https://packagecontrol.io/packages/Lotus%20Color%20Scheme) |
+| Alpen Color Scheme | light color scheme for Sublime Text | [2021-06-20T01:13:04.000Z](https://packagecontrol.io/packages/Alpen%20Color%20Scheme) |
+| Lotus Color Scheme | dark color scheme for Sublime Text | [2021-06-20T01:11:07.000Z](https://packagecontrol.io/packages/Lotus%20Color%20Scheme) |
 | Earthbound Themes | Sublime submodule for the earthbound-themes repo | [2021-06-10T00:14:06.000Z](https://packagecontrol.io/packages/Earthbound%20Themes) |
 | Color Scheme - Gray Matter | A colour scheme for Sublime Text and Visual Studio Code that takes design cues from popular minimalist Markdown text editors. | [2021-06-02T06:33:30.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Gray%20Matter) |
 | Acme | A new color scheme & theme inspired by Plan9 and Acme for Sublime Text | [2021-05-25T10:00:47.000Z](https://packagecontrol.io/packages/Acme) |
