@@ -9,12 +9,12 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| LSP-leo | Leo syntax and language server | [2024-08-21T10:42:27.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-08-11T15:42:34.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-08-10T17:11:47.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-07-26T17:19:17.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-07-10T20:10:23.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2024-07-03T22:03:36.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
-| LSP-leo | Leo syntax and language server | [2024-07-02T20:24:35.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Blossom Theme | Blossom Theme for Sublime Text | [2024-06-26T13:22:01.000Z](https://packagecontrol.io/packages/Blossom%20Theme) |
 | Dark Castle Color Scheme | 🏰 🌲 A vibrantly elegant dark color scheme available for Sublime. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. | [2024-06-21T00:54:34.000Z](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme) |
 | Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
