@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Theme - Spacegray | A Hyperminimal UI Theme for Sublime Text | [2024-09-03T19:26:46.000Z](https://packagecontrol.io/packages/Theme%20-%20Spacegray) |
 | LSP-leo | Leo syntax and language server | [2024-08-21T10:42:27.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-08-11T15:42:34.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-08-10T17:11:47.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
