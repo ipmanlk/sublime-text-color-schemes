@@ -9,11 +9,11 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| Theme - Spacegray | A Hyperminimal UI Theme for Sublime Text | [2024-09-25T16:10:05.000Z](https://packagecontrol.io/packages/Theme%20-%20Spacegray) |
+| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-10-20T02:17:56.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
+| Theme - Spacegray | A Hyperminimal UI Theme for Sublime Text | [2024-10-19T16:38:57.000Z](https://packagecontrol.io/packages/Theme%20-%20Spacegray) |
 | Aethra Color Scheme | Aethra is a minimalist color scheme for Sublime Text, designed with simplicity and clarity in mind. | [2024-09-22T17:03:05.000Z](https://packagecontrol.io/packages/Aethra%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2024-09-06T13:48:53.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-08-11T15:42:34.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
-| Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-08-10T17:11:47.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-07-26T17:19:17.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-07-10T20:10:23.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2024-07-03T22:03:36.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
