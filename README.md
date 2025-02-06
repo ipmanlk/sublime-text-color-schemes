@@ -9,6 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-02-04T13:33:20.000Z](https://packagecontrol.io/packages/Guna) |
+| Selenized Color Scheme | Selenized color scheme for Sublime Text | [2025-02-03T12:27:41.000Z](https://packagecontrol.io/packages/Selenized%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2025-01-08T15:10:22.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Jelly​Fish Color Scheme | JellyFish: A Dark color sheme For sublime text 4. Inspired from vscode-jellyfish. | [2025-01-04T17:02:45.000Z](https://packagecontrol.io/packages/JellyFish%20Color%20Scheme) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-12-15T19:13:00.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
@@ -31,7 +33,6 @@ The table below lists color schemes in descending order based on their last modi
 | Auto​Dark​Linux | Fix auto dark mode for sublime on Linux :sunglasses: | [2024-03-28T00:29:20.000Z](https://packagecontrol.io/packages/AutoDarkLinux) |
 | Comments-only Color Scheme | Color scheme without syntax highlighting for Sublime Text | [2024-03-20T20:17:24.000Z](https://packagecontrol.io/packages/Comments-only%20Color%20Scheme) |
 | Ultimate Dark Neo | Sublime Text 3 theme + scheme, inspired by Spacegray + Mariana | [2024-02-22T11:57:13.000Z](https://packagecontrol.io/packages/Ultimate%20Dark%20Neo) |
-| Guna | 🍁 Most Innovative Theme for Sublime Text | [2024-02-03T08:42:24.000Z](https://packagecontrol.io/packages/Guna) |
 | Color​Scheme​Unit | Color scheme Sublime Text Unit Testing. | [2023-12-07T19:08:18.000Z](https://packagecontrol.io/packages/ColorSchemeUnit) |
 | Clannad Theme | A dark-based elegant theme for Sublime Text | [2023-12-06T19:31:04.000Z](https://packagecontrol.io/packages/Clannad%20Theme) |
 | Material Theme | Material Theme, a theme for Sublime Text 3, made by Mattia Astorino | [2023-12-02T11:36:35.000Z](https://packagecontrol.io/packages/Material%20Theme) |
