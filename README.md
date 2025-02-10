@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-02-08T16:25:24.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-02-04T13:33:20.000Z](https://packagecontrol.io/packages/Guna) |
 | Selenized Color Scheme | Selenized color scheme for Sublime Text | [2025-02-03T12:27:41.000Z](https://packagecontrol.io/packages/Selenized%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2025-01-08T15:10:22.000Z](https://packagecontrol.io/packages/LSP-leo) |
@@ -16,7 +17,6 @@ The table below lists color schemes in descending order based on their last modi
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-12-15T19:13:00.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-11-26T06:48:27.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | zenburn | Zenburn color scheme. | [2024-11-25T16:16:00.000Z](https://packagecontrol.io/packages/zenburn) |
-| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2024-10-22T18:44:16.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Theme - Spacegray | A Hyperminimal UI Theme for Sublime Text | [2024-10-19T16:38:57.000Z](https://packagecontrol.io/packages/Theme%20-%20Spacegray) |
 | Aethra Color Scheme | Aethra is a minimalist color scheme for Sublime Text, designed with simplicity and clarity in mind. | [2024-09-22T17:03:05.000Z](https://packagecontrol.io/packages/Aethra%20Color%20Scheme) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-08-11T15:42:34.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
