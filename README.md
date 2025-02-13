@@ -92,8 +92,8 @@ The table below lists color schemes in descending order based on their last modi
 | Tron Color Scheme | :bike: A standalone fork of the tron color scheme for sublime text, including Tron Legacy | [2021-08-05T22:54:11.000Z](https://packagecontrol.io/packages/Tron%20Color%20Scheme) |
 | Coffee Color Scheme | Coffee smell | [2021-07-16T04:07:18.000Z](https://packagecontrol.io/packages/Coffee%20Color%20Scheme) |
 | Red​Eye | A Sublime Text 3 color scheme inspired by flight instruments and jetliner cockpits. | [2021-07-03T19:27:47.000Z](https://packagecontrol.io/packages/RedEye) |
-| Alpen Color Scheme | light color scheme for Sublime Text | [2021-06-20T01:13:04.000Z](https://packagecontrol.io/packages/Alpen%20Color%20Scheme) |
-| Lotus Color Scheme | dark color scheme for Sublime Text | [2021-06-20T01:11:07.000Z](https://packagecontrol.io/packages/Lotus%20Color%20Scheme) |
+| Alpen Color Scheme | Sublime Text light scheme | [2021-06-20T01:13:04.000Z](https://packagecontrol.io/packages/Alpen%20Color%20Scheme) |
+| Lotus Color Scheme | Sublime Text dark scheme | [2021-06-20T01:11:07.000Z](https://packagecontrol.io/packages/Lotus%20Color%20Scheme) |
 | Earthbound Themes | Sublime submodule for the earthbound-themes repo | [2021-06-10T00:14:06.000Z](https://packagecontrol.io/packages/Earthbound%20Themes) |
 | Color Scheme - Gray Matter | A colour scheme for Sublime Text and Visual Studio Code that takes design cues from popular minimalist Markdown text editors. | [2021-06-02T06:33:30.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Gray%20Matter) |
 | Acme | A new color scheme & theme inspired by Plan9 and Acme for Sublime Text | [2021-05-25T10:00:47.000Z](https://packagecontrol.io/packages/Acme) |
