@@ -43,7 +43,6 @@ The table below lists color schemes in descending order based on their last modi
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2023-08-30T13:54:08.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | Berry Color Scheme | The Berry colour scheme for Sublime Text is heavily inspired by PHPStorm Photon Theme which is inspired by Mozilla's theme | [2023-07-12T12:12:31.000Z](https://packagecontrol.io/packages/Berry%20Color%20Scheme) |
 | Json Colors And Navigation | Add symbol navigation and colorful syntax to JSON files. All Sublime Text built-in color schemes are supported. | [2023-07-04T18:32:25.000Z](https://packagecontrol.io/packages/Json%20Colors%20And%20Navigation) |
-| EJS 2 | EJS syntax definition for Sublime Text 3 & 4 | [2023-06-17T19:00:56.000Z](https://packagecontrol.io/packages/EJS%202) |
 | Sublitesse Color Scheme | A Sublime Text 4 color theme based on antfu's Vitesse | [2023-04-29T12:05:10.000Z](https://packagecontrol.io/packages/Sublitesse%20Color%20Scheme) |
 | LSL | Syntax definitions for LSL(Linden Scripting Language) in Second Life and OSSL(OpenSimulator Scripting Language) in OpenSimulator. | [2023-04-10T04:55:46.000Z](https://packagecontrol.io/packages/LSL) |
 | Visual Studio Dark | Dark Visual Studio color scheme for Sublime Text | [2023-04-07T01:04:28.000Z](https://packagecontrol.io/packages/Visual%20Studio%20Dark) |
