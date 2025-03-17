@@ -9,6 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-03-13T20:28:44.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
+| Hadar Theme | Para mas información revisa la pagina web oficial | [2025-03-08T17:05:37.000Z](https://packagecontrol.io/packages/Hadar%20Theme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-02-08T16:25:24.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-02-04T13:33:20.000Z](https://packagecontrol.io/packages/Guna) |
 | Selenized Color Scheme | Selenized color scheme for Sublime Text | [2025-02-03T12:27:41.000Z](https://packagecontrol.io/packages/Selenized%20Color%20Scheme) |
