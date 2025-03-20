@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Color Scheme - Dracula Neue | Dracula color scheme for Sublime | [2025-03-17T21:25:38.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Dracula%20Neue) |
 | Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-03-13T20:28:44.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
 | Hadar Theme | Para mas información revisa la pagina web oficial | [2025-03-08T17:05:37.000Z](https://packagecontrol.io/packages/Hadar%20Theme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-02-08T16:25:24.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
