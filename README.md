@@ -9,9 +9,11 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2025-03-18T17:54:06.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | Color Scheme - Dracula Neue | Dracula color scheme for Sublime | [2025-03-17T21:25:38.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Dracula%20Neue) |
 | Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-03-13T20:28:44.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
 | Hadar Theme | Para mas información revisa la pagina web oficial | [2025-03-08T17:05:37.000Z](https://packagecontrol.io/packages/Hadar%20Theme) |
+| Candy Dark Color Scheme | Candy Dark is a Sublime Color Scheme for all who loves color while coding. This Color Scheme is specially designed for JavaScript. | [2025-02-20T11:24:15.000Z](https://packagecontrol.io/packages/Candy%20Dark%20Color%20Scheme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-02-08T16:25:24.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-02-04T13:33:20.000Z](https://packagecontrol.io/packages/Guna) |
 | Selenized Color Scheme | Selenized color scheme for Sublime Text | [2025-02-03T12:27:41.000Z](https://packagecontrol.io/packages/Selenized%20Color%20Scheme) |
@@ -19,11 +21,9 @@ The table below lists color schemes in descending order based on their last modi
 | Jelly​Fish Color Scheme | JellyFish: A Dark color sheme For sublime text 4. Inspired from vscode-jellyfish. | [2025-01-04T17:02:45.000Z](https://packagecontrol.io/packages/JellyFish%20Color%20Scheme) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-12-15T19:13:00.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-11-26T06:48:27.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
-| zenburn | Zenburn color scheme. | [2024-11-25T16:16:00.000Z](https://packagecontrol.io/packages/zenburn) |
 | Theme - Spacegray | A Hyperminimal UI Theme for Sublime Text | [2024-10-19T16:38:57.000Z](https://packagecontrol.io/packages/Theme%20-%20Spacegray) |
 | Aethra Color Scheme | Aethra is a minimalist color scheme for Sublime Text, designed with simplicity and clarity in mind. | [2024-09-22T17:03:05.000Z](https://packagecontrol.io/packages/Aethra%20Color%20Scheme) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-08-11T15:42:34.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
-| Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2024-07-03T22:03:36.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | Blossom Theme | Blossom Theme for Sublime Text | [2024-06-26T13:22:01.000Z](https://packagecontrol.io/packages/Blossom%20Theme) |
 | Dark Castle Color Scheme | 🏰 🌲 A vibrantly elegant dark color scheme available for Sublime. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. | [2024-06-21T00:54:34.000Z](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme) |
 | Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
@@ -76,7 +76,6 @@ The table below lists color schemes in descending order based on their last modi
 | Moonlight | Sublime Theme with bubblegum colors on a moonlit background | [2022-03-03T15:17:07.000Z](https://packagecontrol.io/packages/Moonlight) |
 | Agila Theme | A Sublime Text 3 UI Theme | [2022-03-03T02:16:05.000Z](https://packagecontrol.io/packages/Agila%20Theme) |
 | Neon Color Scheme | A colorful bright-on-black color scheme for Sublime Text. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSON, C/C++, diff, HTML/XML, Markdown, PHP, CSS/SCSS/SASS, GitGutter, Find In Files, PackageDev, Regex, SublimeLinter, and much more. | [2022-02-13T20:27:09.000Z](https://packagecontrol.io/packages/Neon%20Color%20Scheme) |
-| Candy Dark Color Scheme | Candy Dark is a Sublime Color Scheme for all who loves color while coding. This Color Scheme is specially designed for JavaScript. | [2022-01-22T14:25:55.000Z](https://packagecontrol.io/packages/Candy%20Dark%20Color%20Scheme) |
 | Lumi | Minimalistic Sublime Text colour scheme with constant luminance | [2022-01-13T21:09:13.000Z](https://packagecontrol.io/packages/Lumi) |
 | Blast Dark | Sublime port of the original Blast Dark theme for VS Code. | [2022-01-12T18:06:02.000Z](https://packagecontrol.io/packages/Blast%20Dark) |
 | Freedom Colour Scheme | A collection of four minimal colour schemes for Sublime Text. | [2022-01-03T16:16:21.000Z](https://packagecontrol.io/packages/Freedom%20Colour%20Scheme) |
@@ -425,3 +424,4 @@ The table below lists color schemes in descending order based on their last modi
 | Bubububububad and Boneyfied Color Schemes | PG rated expansion of a boney theme of mine | [2012-09-30T08:36:44.000Z](https://packagecontrol.io/packages/Bubububububad%20and%20Boneyfied%20Color%20Schemes) |
 | Laravel Color Scheme | A Laravel Paste Bucket like Color Scheme for Sublime Text 2 | [2012-09-24T12:12:45.000Z](https://packagecontrol.io/packages/Laravel%20Color%20Scheme) |
 | Chuby Ninja Color Scheme | A mellow dark color scheme easy for the eye. | [2012-06-18T15:40:19.000Z](https://packagecontrol.io/packages/Chuby%20Ninja%20Color%20Scheme) |
+| zenburn | Zenburn color scheme. | [1970-01-01T00:00:00.000Z](https://packagecontrol.io/packages/zenburn) |
