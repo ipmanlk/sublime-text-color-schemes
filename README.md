@@ -9,21 +9,22 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| LSP-leo | Leo syntax and language server | [2025-04-09T20:06:50.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-04-08T18:09:56.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
+| Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-04-01T16:52:09.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2025-03-18T17:54:06.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | Color Scheme - Dracula Neue | Dracula color scheme for Sublime | [2025-03-17T21:25:38.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Dracula%20Neue) |
-| Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-03-13T20:28:44.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
-| Hadar Theme | Para mas información revisa la pagina web oficial | [2025-03-08T17:05:37.000Z](https://packagecontrol.io/packages/Hadar%20Theme) |
+| Hadar Theme | Para mas información revisa la pagina web oficial | [2025-03-15T18:56:00.000Z](https://packagecontrol.io/packages/Hadar%20Theme) |
+| Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2025-02-25T18:56:00.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Candy Dark Color Scheme | Candy Dark is a Sublime Color Scheme for all who loves color while coding. This Color Scheme is specially designed for JavaScript. | [2025-02-20T11:24:15.000Z](https://packagecontrol.io/packages/Candy%20Dark%20Color%20Scheme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-02-08T16:25:24.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-02-04T13:33:20.000Z](https://packagecontrol.io/packages/Guna) |
 | Selenized Color Scheme | Selenized color scheme for Sublime Text | [2025-02-03T12:27:41.000Z](https://packagecontrol.io/packages/Selenized%20Color%20Scheme) |
-| LSP-leo | Leo syntax and language server | [2025-01-08T15:10:22.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Jelly​Fish Color Scheme | JellyFish: A Dark color sheme For sublime text 4. Inspired from vscode-jellyfish. | [2025-01-04T17:02:45.000Z](https://packagecontrol.io/packages/JellyFish%20Color%20Scheme) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2024-12-15T19:13:00.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-11-26T06:48:27.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
 | Theme - Spacegray | A Hyperminimal UI Theme for Sublime Text | [2024-10-19T16:38:57.000Z](https://packagecontrol.io/packages/Theme%20-%20Spacegray) |
 | Aethra Color Scheme | Aethra is a minimalist color scheme for Sublime Text, designed with simplicity and clarity in mind. | [2024-09-22T17:03:05.000Z](https://packagecontrol.io/packages/Aethra%20Color%20Scheme) |
-| Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2024-08-11T15:42:34.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Blossom Theme | Blossom Theme for Sublime Text | [2024-06-26T13:22:01.000Z](https://packagecontrol.io/packages/Blossom%20Theme) |
 | Dark Castle Color Scheme | 🏰 🌲 A vibrantly elegant dark color scheme available for Sublime. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. | [2024-06-21T00:54:34.000Z](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme) |
 | Decent Color Scheme | A decent color scheme for Sublime Text 2/3. Tailored for Python, CSS and Ruby. And regexp. highlighting. | [2024-06-04T12:47:46.000Z](https://packagecontrol.io/packages/Decent%20Color%20Scheme) |
@@ -41,7 +42,6 @@ The table below lists color schemes in descending order based on their last modi
 | Material Theme | Material Theme, a theme for Sublime Text 3, made by Mattia Astorino | [2023-12-02T11:36:35.000Z](https://packagecontrol.io/packages/Material%20Theme) |
 | Flexoki Color Scheme | An inky color scheme for Sublime Text. | [2023-10-12T02:48:18.000Z](https://packagecontrol.io/packages/Flexoki%20Color%20Scheme) |
 | Whitelines | A colour scheme for Sublime Text which is styled after Whitelines notepads | [2023-09-26T22:15:55.000Z](https://packagecontrol.io/packages/Whitelines) |
-| Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2023-09-26T22:06:10.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Invader Zim Color Scheme | 🛸 Dark Color Theme for Sublime Text 4 | [2023-09-25T12:45:29.000Z](https://packagecontrol.io/packages/Invader%20Zim%20Color%20Scheme) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2023-08-30T13:54:08.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | Berry Color Scheme | The Berry colour scheme for Sublime Text is heavily inspired by PHPStorm Photon Theme which is inspired by Mozilla's theme | [2023-07-12T12:12:31.000Z](https://packagecontrol.io/packages/Berry%20Color%20Scheme) |
