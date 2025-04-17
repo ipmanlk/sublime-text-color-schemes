@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| LSP-leo | Leo syntax and language server | [2025-04-09T20:06:50.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| LSP-leo | Leo syntax and language server | [2025-04-16T16:04:34.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-04-08T18:09:56.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-04-01T16:52:09.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2025-03-18T17:54:06.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
