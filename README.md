@@ -197,6 +197,7 @@ The table below lists color schemes in descending order based on their last modi
 | Monokai Rich | Extends monokai with rich syntax highlighting for: PHP, HTML, CSS, JS, Blade, Markdown .. | [2017-10-13T18:39:57.000Z](https://packagecontrol.io/packages/Monokai%20Rich) |
 | Monaco | A color scheme for sublime text. | [2017-10-12T13:08:11.000Z](https://packagecontrol.io/packages/Monaco) |
 | Color Schemes - Wicked Schemes by b​0xw​00d | Sublime Text 3 color schemes.  Available through Package Control. | [2017-10-10T23:37:01.000Z](https://packagecontrol.io/packages/Color%20Schemes%20-%20Wicked%20Schemes%20by%20b0xw00d) |
+| SAS Syntax and Theme | A Sublime Text 3 package for SAS syntax highlighting and the corresponding SAS Theme | [2017-10-09T09:27:22.000Z](https://packagecontrol.io/packages/SAS%20Syntax%20and%20Theme) |
 | Rohingya Dark color scheme | Rohingya is a dark sublime text 3 color scheme | [2017-10-02T23:53:26.000Z](https://packagecontrol.io/packages/Rohingya%20Dark%20color%20scheme) |
 | Sunrise Theme | Sunrise Theme, Solarized theme for Sublime Text 3 | [2017-10-01T05:10:48.000Z](https://packagecontrol.io/packages/Sunrise%20Theme) |
 | DA CS | Popular Color Schemes for Sublime Text 3, Those Are Compatible with DA UI Engine | [2017-09-30T12:08:17.000Z](https://packagecontrol.io/packages/DA%20CS) |
