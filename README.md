@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-04-29T16:13:52.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | LSP-leo | Leo syntax and language server | [2025-04-16T16:04:34.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-04-08T18:09:56.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-04-01T16:52:09.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
@@ -17,7 +18,6 @@ The table below lists color schemes in descending order based on their last modi
 | Hadar Theme | Para mas información revisa la pagina web oficial | [2025-03-15T18:56:00.000Z](https://packagecontrol.io/packages/Hadar%20Theme) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2025-02-25T18:56:00.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Candy Dark Color Scheme | Candy Dark is a Sublime Color Scheme for all who loves color while coding. This Color Scheme is specially designed for JavaScript. | [2025-02-20T11:24:15.000Z](https://packagecontrol.io/packages/Candy%20Dark%20Color%20Scheme) |
-| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-02-08T16:25:24.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-02-04T13:33:20.000Z](https://packagecontrol.io/packages/Guna) |
 | Selenized Color Scheme | Selenized color scheme for Sublime Text | [2025-02-03T12:27:41.000Z](https://packagecontrol.io/packages/Selenized%20Color%20Scheme) |
 | Jelly​Fish Color Scheme | JellyFish: A Dark color sheme For sublime text 4. Inspired from vscode-jellyfish. | [2025-01-04T17:02:45.000Z](https://packagecontrol.io/packages/JellyFish%20Color%20Scheme) |
@@ -54,6 +54,7 @@ The table below lists color schemes in descending order based on their last modi
 | Norber Theme | A Theme for Sublime Text editor | [2023-01-19T09:10:31.000Z](https://packagecontrol.io/packages/Norber%20Theme) |
 | Cool & Clear - Color Scheme | A tastefully minimal, high contrast, light mode syntax coloring scheme for Sublime Text | [2022-12-31T15:31:08.000Z](https://packagecontrol.io/packages/Cool%20%26%20Clear%20-%20Color%20Scheme) |
 | Colorsublime | Plugin for Color Sublime | [2022-12-20T03:41:39.000Z](https://packagecontrol.io/packages/Colorsublime) |
+| Coddy Colour Scheme | Colorful Sublime Text color scheme | [2022-12-16T08:24:32.000Z](https://packagecontrol.io/packages/Coddy%20Colour%20Scheme) |
 | Dark PRO Color Schemes | Professional Dark Sublime Text Color Schemes Collection | [2022-12-14T10:44:13.000Z](https://packagecontrol.io/packages/Dark%20PRO%20Color%20Schemes) |
 | Dark Crayon Color Scheme | sublime color scheme | [2022-12-03T04:19:55.000Z](https://packagecontrol.io/packages/Dark%20Crayon%20Color%20Scheme) |
 | Solarized OKLab Color Scheme | Solarized in OKLab color space | [2022-11-22T15:41:11.000Z](https://packagecontrol.io/packages/Solarized%20OKLab%20Color%20Scheme) |
@@ -193,6 +194,7 @@ The table below lists color schemes in descending order based on their last modi
 | molokai | Molokai color scheme. | [2017-12-12T18:56:09.000Z](https://packagecontrol.io/packages/molokai) |
 | Se​7en Color Schemes | Color Schemes for Sublime-Text 2/3 | [2017-12-05T17:07:48.000Z](https://packagecontrol.io/packages/Se7en%20Color%20Schemes) |
 | Dayle Rees Color Schemes | Colour schemes for a variety of editors created by Dayle Rees. | [2017-11-29T19:58:38.000Z](https://packagecontrol.io/packages/Dayle%20Rees%20Color%20Schemes) |
+| Monokai Dark | Monokai Dark Theme for Sublime 2 and Sublime 3 specially for Seti_ui | [2017-11-27T05:33:58.000Z](https://packagecontrol.io/packages/Monokai%20Dark) |
 | Material Monokai | Material Monokai Color Scheme for Sublime Text 3 | [2017-11-10T16:51:32.000Z](https://packagecontrol.io/packages/Material%20Monokai) |
 | Monokai Rich | Extends monokai with rich syntax highlighting for: PHP, HTML, CSS, JS, Blade, Markdown .. | [2017-10-13T18:39:57.000Z](https://packagecontrol.io/packages/Monokai%20Rich) |
 | Monaco | A color scheme for sublime text. | [2017-10-12T13:08:11.000Z](https://packagecontrol.io/packages/Monaco) |
@@ -376,6 +378,7 @@ The table below lists color schemes in descending order based on their last modi
 | Warp-OS Color Scheme | Color scheme for Sublime Text and TextMate | [2014-05-25T20:38:43.000Z](https://packagecontrol.io/packages/Warp-OS%20Color%20Scheme) |
 | Oasis Theme | Theme for Sublime Text especially design for C++ Starting Kit | [2014-05-22T13:03:34.000Z](https://packagecontrol.io/packages/Oasis%20Theme) |
 | Apple Pips Color Scheme | Color scheme inspired by the Apple Pips record label | [2014-05-20T18:32:59.000Z](https://packagecontrol.io/packages/Apple%20Pips%20Color%20Scheme) |
+| KCPS Theme | KCPS Settings and Theme for ST3 | [2014-05-09T18:43:01.000Z](https://packagecontrol.io/packages/KCPS%20Theme) |
 | 3024 Color Scheme | 3024 theme for TextMate & Sublime Text | [2014-04-29T09:25:21.000Z](https://packagecontrol.io/packages/3024%20Color%20Scheme) |
 | Nocturnal Color Scheme | Night-time-friendly color scheme for Sublime Text. | [2014-04-16T02:05:58.000Z](https://packagecontrol.io/packages/Nocturnal%20Color%20Scheme) |
 | Googley | A Sublime Text / TextMate Colour Scheme, inspired by Google. | [2014-04-15T19:19:39.000Z](https://packagecontrol.io/packages/Googley) |
