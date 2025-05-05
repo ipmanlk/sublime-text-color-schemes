@@ -9,8 +9,9 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| LSP-leo | Leo syntax and language server | [2025-05-01T11:59:11.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-04-29T16:13:52.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
-| LSP-leo | Leo syntax and language server | [2025-04-16T16:04:34.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| zenburn | Zenburn color scheme. | [2025-04-13T13:36:02.000Z](https://packagecontrol.io/packages/zenburn) |
 | Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-04-08T18:09:56.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-04-01T16:52:09.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2025-03-18T17:54:06.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
@@ -428,4 +429,3 @@ The table below lists color schemes in descending order based on their last modi
 | Bubububububad and Boneyfied Color Schemes | PG rated expansion of a boney theme of mine | [2012-09-30T08:36:44.000Z](https://packagecontrol.io/packages/Bubububububad%20and%20Boneyfied%20Color%20Schemes) |
 | Laravel Color Scheme | A Laravel Paste Bucket like Color Scheme for Sublime Text 2 | [2012-09-24T12:12:45.000Z](https://packagecontrol.io/packages/Laravel%20Color%20Scheme) |
 | Chuby Ninja Color Scheme | A mellow dark color scheme easy for the eye. | [2012-06-18T15:40:19.000Z](https://packagecontrol.io/packages/Chuby%20Ninja%20Color%20Scheme) |
-| zenburn | Zenburn color scheme. | [1970-01-01T00:00:00.000Z](https://packagecontrol.io/packages/zenburn) |
