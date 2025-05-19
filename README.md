@@ -9,9 +9,9 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| LSP-leo | Leo syntax and language server | [2025-05-15T10:34:03.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2025-05-08T19:16:29.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2025-05-08T19:07:05.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
-| LSP-leo | Leo syntax and language server | [2025-05-08T11:25:06.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-04-29T16:13:52.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | zenburn | Zenburn color scheme. | [2025-04-13T13:36:02.000Z](https://packagecontrol.io/packages/zenburn) |
 | Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-04-08T18:09:56.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
