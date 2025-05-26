@@ -9,13 +9,13 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| LSP-leo | Leo syntax and language server | [2025-05-15T10:34:03.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-05-24T08:12:56.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
+| LSP-leo | Leo syntax and language server | [2025-05-22T14:34:00.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2025-05-08T19:16:29.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
 | Solarized Color Scheme | Solarized color scheme and theme for Sublime Text | [2025-05-08T19:07:05.000Z](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-04-29T16:13:52.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | zenburn | Zenburn color scheme. | [2025-04-13T13:36:02.000Z](https://packagecontrol.io/packages/zenburn) |
 | Theme - Sone | Sone - Theme & Color Scheme for Sublime Text | [2025-04-08T18:09:56.000Z](https://packagecontrol.io/packages/Theme%20-%20Sone) |
-| Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-04-01T16:52:09.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | Teenage Color Scheme | A Sublime Text color scheme inspired by the Teenage Engineering Pocket Operator series of musical instruments. | [2025-03-18T17:54:06.000Z](https://packagecontrol.io/packages/Teenage%20Color%20Scheme) |
 | Color Scheme - Dracula Neue | Dracula color scheme for Sublime | [2025-03-17T21:25:38.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Dracula%20Neue) |
 | Hadar Theme | Para mas información revisa la pagina web oficial | [2025-03-15T18:56:00.000Z](https://packagecontrol.io/packages/Hadar%20Theme) |
