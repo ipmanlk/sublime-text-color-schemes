@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2025-05-24T19:56:11.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-05-24T08:12:56.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
 | LSP-leo | Leo syntax and language server | [2025-05-22T14:34:00.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Theme - Rose Pine | Soho vibes for Sublime Text | [2025-05-08T19:16:29.000Z](https://packagecontrol.io/packages/Theme%20-%20Rose%20Pine) |
@@ -33,7 +34,6 @@ The table below lists color schemes in descending order based on their last modi
 | Monokai​Free | Monokai Sublime Text color scheme. | [2024-05-21T10:43:35.000Z](https://packagecontrol.io/packages/MonokaiFree) |
 | Materialize | 🎨 Elegant themes for Sublime Text 3 | [2024-05-14T07:56:53.000Z](https://packagecontrol.io/packages/Materialize) |
 | Wakame Color Scheme | Wakame Color Scheme for Sublime Text 3/4. | [2024-05-03T13:59:29.000Z](https://packagecontrol.io/packages/Wakame%20Color%20Scheme) |
-| Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2024-03-31T16:14:41.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | MKB | Macro/Keybind Mod Syntax Highlighting for Sublime Text 3/4 (For Minecraft 1.6.2-1.12.2) | [2024-03-30T02:17:51.000Z](https://packagecontrol.io/packages/MKB) |
 | Auto​Dark​Linux | Fix auto dark mode for sublime on Linux :sunglasses: | [2024-03-28T00:29:20.000Z](https://packagecontrol.io/packages/AutoDarkLinux) |
 | Comments-only Color Scheme | Color scheme without syntax highlighting for Sublime Text | [2024-03-20T20:17:24.000Z](https://packagecontrol.io/packages/Comments-only%20Color%20Scheme) |
