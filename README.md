@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| LSP-leo | Leo syntax and language server | [2025-06-05T14:26:04.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| LSP-leo | Leo syntax and language server | [2025-06-12T13:18:08.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-05-30T16:13:32.000Z](https://packagecontrol.io/packages/Guna) |
 | Brackets Color Scheme | Color scheme for Sublime Text inspired by Adobe Brackets | [2025-05-24T19:56:11.000Z](https://packagecontrol.io/packages/Brackets%20Color%20Scheme) |
 | Theme - One | 🎨 A port of Atom's One Dark and One Light UI and Syntax Themes ⚡. | [2025-05-24T08:12:56.000Z](https://packagecontrol.io/packages/Theme%20-%20One) |
