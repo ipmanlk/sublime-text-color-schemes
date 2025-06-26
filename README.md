@@ -9,6 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2025-06-24T18:02:21.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2025-06-19T11:25:05.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Evergarden color schemes | :orange: cozy evergarden theme for sublime text | [2025-06-16T13:55:22.000Z](https://packagecontrol.io/packages/Evergarden%20color%20schemes) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-05-30T16:13:32.000Z](https://packagecontrol.io/packages/Guna) |
@@ -45,7 +46,6 @@ The table below lists color schemes in descending order based on their last modi
 | Flexoki Color Scheme | An inky color scheme for Sublime Text. | [2023-10-12T02:48:18.000Z](https://packagecontrol.io/packages/Flexoki%20Color%20Scheme) |
 | Whitelines | A colour scheme for Sublime Text which is styled after Whitelines notepads | [2023-09-26T22:15:55.000Z](https://packagecontrol.io/packages/Whitelines) |
 | Invader Zim Color Scheme | 🛸 Dark Color Theme for Sublime Text 4 | [2023-09-25T12:45:29.000Z](https://packagecontrol.io/packages/Invader%20Zim%20Color%20Scheme) |
-| Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2023-08-30T13:54:08.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | Berry Color Scheme | The Berry colour scheme for Sublime Text is heavily inspired by PHPStorm Photon Theme which is inspired by Mozilla's theme | [2023-07-12T12:12:31.000Z](https://packagecontrol.io/packages/Berry%20Color%20Scheme) |
 | Json Colors And Navigation | Add symbol navigation and colorful syntax to JSON files. All Sublime Text built-in color schemes are supported. | [2023-07-04T18:32:25.000Z](https://packagecontrol.io/packages/Json%20Colors%20And%20Navigation) |
 | Sublitesse Color Scheme | A Sublime Text 4 color theme based on antfu's Vitesse | [2023-04-29T12:05:10.000Z](https://packagecontrol.io/packages/Sublitesse%20Color%20Scheme) |
