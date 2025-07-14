@@ -9,8 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| LSP-leo | Leo syntax and language server | [2025-07-10T12:49:37.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-06-26T14:45:11.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
-| LSP-leo | Leo syntax and language server | [2025-06-26T12:37:38.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2025-06-24T18:02:21.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | Evergarden color schemes | :orange: cozy evergarden theme for sublime text | [2025-06-16T13:55:22.000Z](https://packagecontrol.io/packages/Evergarden%20color%20schemes) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-05-30T16:13:32.000Z](https://packagecontrol.io/packages/Guna) |
