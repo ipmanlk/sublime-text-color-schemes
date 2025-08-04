@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| LSP-leo | Leo syntax and language server | [2025-07-24T12:28:30.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| LSP-leo | Leo syntax and language server | [2025-07-31T11:58:40.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-06-26T14:57:16.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2025-06-24T18:02:21.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | Evergarden color schemes | :orange: cozy evergarden theme for sublime text | [2025-06-16T13:55:22.000Z](https://packagecontrol.io/packages/Evergarden%20color%20schemes) |
@@ -27,6 +27,7 @@ The table below lists color schemes in descending order based on their last modi
 | Selenized Color Scheme | Selenized color scheme for Sublime Text | [2025-02-03T12:27:41.000Z](https://packagecontrol.io/packages/Selenized%20Color%20Scheme) |
 | Jelly​Fish Color Scheme | JellyFish: A Dark color sheme For sublime text 4. Inspired from vscode-jellyfish. | [2025-01-04T17:02:45.000Z](https://packagecontrol.io/packages/JellyFish%20Color%20Scheme) |
 | Color Scheme - Bass | Color scheme for Sublime Text editor | [2024-11-26T06:48:27.000Z](https://packagecontrol.io/packages/Color%20Scheme%20-%20Bass) |
+| Lucario Color Scheme | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm | [2024-11-08T20:49:58.000Z](https://packagecontrol.io/packages/Lucario%20Color%20Scheme) |
 | Theme - Spacegray | A Hyperminimal UI Theme for Sublime Text | [2024-10-19T16:38:57.000Z](https://packagecontrol.io/packages/Theme%20-%20Spacegray) |
 | Aethra Color Scheme | Aethra is a minimalist color scheme for Sublime Text, designed with simplicity and clarity in mind. | [2024-09-22T17:03:05.000Z](https://packagecontrol.io/packages/Aethra%20Color%20Scheme) |
 | Blossom Theme | Blossom Theme for Sublime Text | [2024-06-26T13:22:01.000Z](https://packagecontrol.io/packages/Blossom%20Theme) |
@@ -85,7 +86,6 @@ The table below lists color schemes in descending order based on their last modi
 | Writer Color Scheme | A color scheme for focused long-form writing | [2021-11-04T16:35:58.000Z](https://packagecontrol.io/packages/Writer%20Color%20Scheme) |
 | Notepad++ Color Scheme | Notepad++ Color Scheme for Sublime Text | [2021-11-04T00:35:18.000Z](https://packagecontrol.io/packages/Notepad%2B%2B%20Color%20Scheme) |
 | Oceanic Color Scheme | A color scheme for Textmate/Sublime | [2021-10-08T20:09:02.000Z](https://packagecontrol.io/packages/Oceanic%20Color%20Scheme) |
-| Lucario Color Scheme | The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode, Windows Terminal and XTerm | [2021-10-07T19:31:49.000Z](https://packagecontrol.io/packages/Lucario%20Color%20Scheme) |
 | Twilight​Bright | twilight bright colour scheme for sublime text | [2021-10-05T19:03:07.000Z](https://packagecontrol.io/packages/TwilightBright) |
 | ayu | 🎨🖌 Modern Sublime Text theme | [2021-09-28T21:49:15.000Z](https://packagecontrol.io/packages/ayu) |
 | Gruvbox Material Theme | Gruvbox Material Theme for Sublime Text | [2021-08-17T21:42:19.000Z](https://packagecontrol.io/packages/Gruvbox%20Material%20Theme) |
