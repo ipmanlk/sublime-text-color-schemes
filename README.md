@@ -9,6 +9,8 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Neon Color Scheme | A colorful bright-on-black color scheme for Sublime Text. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSON, C/C++, diff, HTML/XML, Markdown, PHP, CSS/SCSS/SASS, GitGutter, Find In Files, PackageDev, Regex, SublimeLinter, and much more. | [2025-08-19T19:49:15.000Z](https://packagecontrol.io/packages/Neon%20Color%20Scheme) |
+| Nabla Theme | 🎨A theme and color scheme for Sublime Text 4 | [2025-08-17T17:58:08.000Z](https://packagecontrol.io/packages/Nabla%20Theme) |
 | LSP-leo | Leo syntax and language server | [2025-08-14T10:26:27.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-08-10T16:40:16.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2025-06-24T18:02:21.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
@@ -79,7 +81,6 @@ The table below lists color schemes in descending order based on their last modi
 | Odhin Color Scheme | Odhin Theme for Sublime | [2022-04-01T11:30:39.000Z](https://packagecontrol.io/packages/Odhin%20Color%20Scheme) |
 | Moonlight | Sublime Theme with bubblegum colors on a moonlit background | [2022-03-03T15:17:07.000Z](https://packagecontrol.io/packages/Moonlight) |
 | Agila Theme | A Sublime Text 3 UI Theme | [2022-03-03T02:16:05.000Z](https://packagecontrol.io/packages/Agila%20Theme) |
-| Neon Color Scheme | A colorful bright-on-black color scheme for Sublime Text. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSON, C/C++, diff, HTML/XML, Markdown, PHP, CSS/SCSS/SASS, GitGutter, Find In Files, PackageDev, Regex, SublimeLinter, and much more. | [2022-02-13T20:27:09.000Z](https://packagecontrol.io/packages/Neon%20Color%20Scheme) |
 | Lumi | Minimalistic Sublime Text colour scheme with constant luminance | [2022-01-13T21:09:13.000Z](https://packagecontrol.io/packages/Lumi) |
 | Blast Dark | Sublime port of the original Blast Dark theme for VS Code. | [2022-01-12T18:06:02.000Z](https://packagecontrol.io/packages/Blast%20Dark) |
 | Freedom Colour Scheme | A collection of four minimal colour schemes for Sublime Text. | [2022-01-03T16:16:21.000Z](https://packagecontrol.io/packages/Freedom%20Colour%20Scheme) |
