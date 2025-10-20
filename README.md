@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| Sandpaper Color Scheme | A light color scheme for Sublime Text | [2025-10-15T10:18:32.000Z](https://packagecontrol.io/packages/Sandpaper%20Color%20Scheme) |
+| Sandpaper Color Scheme | A light color scheme for Sublime Text | [2025-10-17T12:12:27.000Z](https://packagecontrol.io/packages/Sandpaper%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2025-10-02T13:15:34.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Nabla Theme | 🎨A theme and color scheme for Sublime Text 4 | [2025-09-14T22:24:16.000Z](https://packagecontrol.io/packages/Nabla%20Theme) |
 | Sabe​Night | My custom color scheme for sublime text | [2025-09-13T19:05:22.000Z](https://packagecontrol.io/packages/SabeNight) |
