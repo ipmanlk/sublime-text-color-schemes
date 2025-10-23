@@ -9,13 +9,13 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
+| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-10-22T17:33:06.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Sandpaper Color Scheme | A light color scheme for Sublime Text | [2025-10-17T12:12:27.000Z](https://packagecontrol.io/packages/Sandpaper%20Color%20Scheme) |
 | LSP-leo | Leo syntax and language server | [2025-10-02T13:15:34.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Nabla Theme | 🎨A theme and color scheme for Sublime Text 4 | [2025-09-14T22:24:16.000Z](https://packagecontrol.io/packages/Nabla%20Theme) |
 | Sabe​Night | My custom color scheme for sublime text | [2025-09-13T19:05:22.000Z](https://packagecontrol.io/packages/SabeNight) |
 | Hypeon Color Scheme | Dark synthwave theme for Sublime Text | [2025-08-30T10:09:34.000Z](https://packagecontrol.io/packages/Hypeon%20Color%20Scheme) |
 | Neon Color Scheme | A colorful bright-on-black color scheme for Sublime Text. Its aim is to make as many languages as possible look as good as possible. Includes extended support for Python, Ruby, Clojure, JavaScript/JSON, C/C++, diff, HTML/XML, Markdown, PHP, CSS/SCSS/SASS, GitGutter, Find In Files, PackageDev, Regex, SublimeLinter, and much more. | [2025-08-19T19:49:15.000Z](https://packagecontrol.io/packages/Neon%20Color%20Scheme) |
-| Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-08-10T16:40:16.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Dracula Color Scheme | 🧛🏻‍♂️ Dark theme for Sublime Text | [2025-06-24T18:02:21.000Z](https://packagecontrol.io/packages/Dracula%20Color%20Scheme) |
 | Evergarden color schemes | :orange: cozy evergarden theme for sublime text | [2025-06-16T13:55:22.000Z](https://packagecontrol.io/packages/Evergarden%20color%20schemes) |
 | Guna | 🍁 Most Innovative Theme for Sublime Text | [2025-05-30T16:13:32.000Z](https://packagecontrol.io/packages/Guna) |
