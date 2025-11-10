@@ -9,7 +9,7 @@ The table below lists color schemes in descending order based on their last modi
 
 | Package Name | Description | Last Updated URL |
 | ------------ | ----------- | ----------------- |
-| LSP-leo | Leo syntax and language server | [2025-11-04T15:20:31.000Z](https://packagecontrol.io/packages/LSP-leo) |
+| LSP-leo | Leo syntax and language server | [2025-11-07T14:10:02.000Z](https://packagecontrol.io/packages/LSP-leo) |
 | Markdown​Editing | Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes. | [2025-10-22T17:33:06.000Z](https://packagecontrol.io/packages/MarkdownEditing) |
 | Sandpaper Color Scheme | A light color scheme for Sublime Text | [2025-10-17T12:12:27.000Z](https://packagecontrol.io/packages/Sandpaper%20Color%20Scheme) |
 | Nabla Theme | 🎨A theme and color scheme for Sublime Text 4 | [2025-09-14T22:24:16.000Z](https://packagecontrol.io/packages/Nabla%20Theme) |
