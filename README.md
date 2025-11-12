@@ -1,3 +1,10 @@
+# 🚨 Repository Archived
+
+**Notice:** This repository is no longer actively maintained.  
+The Sublime Text community has released a new **web application for Package Control**, available at [https://packages.sublimetext.io/](https://packages.sublimetext.io/).  
+You can now find up-to-date information about Sublime Text color schemes and other packages directly on that site.
+
+---
 
 # Sublime Text Color Schemes Repository
 
